@@ -6,6 +6,7 @@
   * Case study: [Grafana Labs Teams Use Jaeger to Improve Query Performance Up to 10x](https://medium.com/jaegertracing/grafana-labs-teams-observed-query-performance-improvements-up-to-10x-with-jaeger-cec84b0e3609)
 * [Logz.io](https://logz.io/)
   * Case study: [Jaeger Essentials: Performance Blitz with Jaeger](https://logz.io/blog/jaeger-tracing-performance/)
+* [LUNAR](https://lunar.app)
 * [Massachusetts Open Cloud](https://www.bu.edu/hic/research/highlighted-sponsored-projects/massachusetts-open-cloud/)
 * [Matrix](https://matrix.org/)
 * [Northwestern Mutual](https://www.northwesternmutual.com/)
